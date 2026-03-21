@@ -1,0 +1,5 @@
+# input from user
+ch=input(" enter the character:")
+#print ASCII value 
+# ord is a built in python function it converts character into its ASCII value(unicode value)
+print("ASCII value of",ch,"is",ord(ch))
