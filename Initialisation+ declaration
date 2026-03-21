@@ -1,0 +1,10 @@
+# declaration+initialisation 
+a=10   # integer 
+b=3.5  # flot
+name="poornima" # char
+is_student=true # Boolean 
+# printing values
+print("integer value:", a)
+print("floating value:", b)
+print("name:",name)
+print("student:",is_student)
