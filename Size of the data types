@@ -1,0 +1,15 @@
+import sys
+
+# Different data types
+a = 10          # int
+b = 10.5        # float
+c = 'A'         # char (string in Python)
+d = "Hello"     # string
+e = True        # boolean
+
+# Printing sizes
+print("Size of int:", sys.getsizeof(a), "bytes")
+print("Size of float:", sys.getsizeof(b), "bytes")
+print("Size of char:", sys.getsizeof(c), "bytes")
+print("Size of string:", sys.getsizeof(d), "bytes")
+print("Size of boolean:", sys.getsizeof(e), "bytes")

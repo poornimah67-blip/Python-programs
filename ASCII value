@@ -1,8 +1,0 @@
-# Get input from user
-ch = input("Enter a character: ")
-
-# Find ASCII value
-ascii_value = ord(ch)
-
-# Print result
-print("ASCII value of", ch, "is", ascii_value)
