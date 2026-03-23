@@ -6,4 +6,5 @@
 5. swap 2 numbers using third variable
 6. ASCII value of the character 
 7. initialisation+declaration in python
-8. size of the data types 
+8. size of the data types
+9. checking whether the given number is odd or even 
