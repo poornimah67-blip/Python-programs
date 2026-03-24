@@ -8,3 +8,4 @@
 7. initialisation+declaration in python
 8. size of the data types
 9. checking whether the given number is odd or even 
+10. pgm to perform arithmetic operation 
