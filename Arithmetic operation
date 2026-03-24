@@ -1,0 +1,13 @@
+a = 15
+b = 4
+
+print("Addition (15 + 4) =", a + b)
+print("Subtraction (15 - 4) =", a - b)
+print("Multiplication (15 * 4) =", a * b)
+print("Integer Division (15 // 4) =", a // b)
+print("Modulus (15 % 4) =", a % b)
+
+print("Original value of a =", a)
+
+a += 1
+print("After increment (a++) =", a)
