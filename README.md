@@ -9,4 +9,5 @@
 8. size of the data types
 9. checking whether the given number is odd or even 
 10. pgm to perform arithmetic operation
-11. pgm ro check whether the given number is positive or negative 
+11. pgm to check whether the given number is positive or negative
+12. pgm  to check whether the given word is palindrome or not 
