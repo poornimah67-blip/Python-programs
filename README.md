@@ -10,4 +10,5 @@
 9. checking whether the given number is odd or even 
 10. pgm to perform arithmetic operation
 11. pgm to check whether the given number is positive or negative
-12. pgm  to check whether the given word is palindrome or not 
+12. pgm  to check whether the given word is palindrome or not
+13. pgm to find largest of three numbers 
