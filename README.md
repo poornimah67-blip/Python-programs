@@ -13,3 +13,4 @@
 12. pgm  to check whether the given word is palindrome or not
 13. pgm to find largest of three numbers
 14. pgm to check leap year 
+15.pgm to check consonant or vowel 
