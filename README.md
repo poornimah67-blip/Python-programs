@@ -14,4 +14,5 @@
 13. pgm to find largest of three numbers
 14. pgm to check leap year 
 15.pgm to check consonant or vowel 
-16. pgm to check alphabet,digits or special character 
+16. pgm to check alphabet,digits or special character
+17. pgm to know maximum of three numbers 
