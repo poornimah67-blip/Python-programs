@@ -15,4 +15,5 @@
 14. pgm to check leap year 
 15.pgm to check consonant or vowel 
 16. pgm to check alphabet,digits or special character
-17. pgm to know maximum of three numbers 
+17. pgm to know maximum of three numbers
+18. pgm to know maximum of 2 numbers 
