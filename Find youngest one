@@ -1,0 +1,12 @@
+# Input ages
+ram = int(input("Enter age of Ram: "))
+shyam = int(input("Enter age of Shyam: "))
+ajay = int(input("Enter age of Ajay: "))
+
+# Finding youngest
+if ram <= shyam and ram <= ajay:
+    print("Ram is the youngest.")
+elif shyam <= ram and shyam <= ajay:
+    print("Shyam is the youngest.")
+else:
+    print("Ajay is the youngest.")
