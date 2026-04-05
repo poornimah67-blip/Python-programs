@@ -1,0 +1,10 @@
+# Input values
+principal = float(input("Enter principal amount: "))
+rate = float(input("Enter rate of interest: "))
+time = float(input("Enter time (in years): "))
+
+# Calculate Simple Interest
+simple_interest = (principal * rate * time) / 100
+
+# Output result
+print("Simple Interest =", simple_interest)
