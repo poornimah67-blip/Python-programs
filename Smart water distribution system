@@ -1,0 +1,43 @@
+# Input water consumption for 7 households
+water = []
+
+print("Enter water consumption for 7 households:")
+
+for i in range(7):
+    value = int(input())
+    water.append(value)
+
+normal = 0
+warning = 0
+penalty = 0
+total = 0
+
+# Assume first element is highest initially
+max_value = water[0]
+max_index = 0
+
+for i in range(7):
+    total += water[i]
+
+    # Find highest consumption
+    if water[i] > max_value:
+        max_value = water[i]
+        max_index = i
+
+    # Categorization
+    if water[i] <= 500:
+        normal += 1
+    elif water[i] <= 800:
+        warning += 1
+    else:
+        penalty += 1
+
+# Average calculation
+average = total / 7
+
+# Output
+print("\nNormal:", normal)
+print("Warning:", warning)
+print("Penalty:", penalty)
+print("Highest consumption: Household", max_index + 1, "(", max_value, "liters )")
+print("Average consumption:", round(average, 2))
