@@ -1,0 +1,14 @@
+num = int(input("Enter a number: "))
+
+original = num
+result = 0
+
+while num != 0:
+    remainder = num % 10          # get last digit
+    result += remainder ** 3      # cube and add
+    num = num // 10               # remove last digit
+
+if result == original:
+    print("Armstrong number")
+else:
+    print("Not an Armstrong number")
