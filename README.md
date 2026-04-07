@@ -21,4 +21,6 @@
 20. pgm to find youngest one
 21. pgm to find simple interest 
 22. pgm for smart water distribution
-23. phm to check Armstrong Number
+23. pgm to check Armstrong Number
+24. pgm to find Fibonacci Series
+25. 
