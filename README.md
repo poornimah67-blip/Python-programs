@@ -23,4 +23,4 @@
 22. pgm for smart water distribution
 23. pgm to check Armstrong Number
 24. pgm to find Fibonacci Series
-25. 
+25. pgm of simple calculator 
