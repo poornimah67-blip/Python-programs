@@ -1,0 +1,15 @@
+units = int(input("Enter units consumed: "))
+bill = 0
+
+if units <= 100:
+    bill = units * 4
+elif units <= 300:
+    bill = (100 * 4) + (units - 100) * 6
+else:
+    bill = (100 * 4) + (200 * 6) + (units - 300) * 9
+
+# Apply 15% tax if units > 500
+if units > 500:
+    bill = bill + (0.15 * bill)
+
+print("Total Bill = ₹", bill)
