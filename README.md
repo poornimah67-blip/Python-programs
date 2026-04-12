@@ -24,4 +24,5 @@
 23. pgm to check Armstrong Number
 24. pgm to find Fibonacci Series
 25. pgm of simple calculator
-26. pgn for factory production using while loop 
+26. pgn for factory production using while loop
+27. pgm to find sum of digits 
