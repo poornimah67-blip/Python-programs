@@ -1,0 +1,13 @@
+total = 0
+
+print("Enter items produced each hour (-1 to stop):")
+
+while True:
+    items = int(input())
+
+    if items == -1:
+        break
+
+    total += items
+
+print("Total production =", total)
