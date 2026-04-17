@@ -28,3 +28,4 @@
 27. pgm to find sum of digits
 28. pgm to reverse a number
 29. pgm for guessing number game
+30. pgm to print numbers from 1 to 10 
