@@ -31,4 +31,5 @@
 30. pgm to print numbers from 1 to 10
 31. pgm to calculate student marks and grade
 32. Pgm to Find Second Largest Number (without using sort)
-33. pgm to write ATM withdrawal system 
+33. pgm to write ATM withdrawal system
+34. pgm to calculate tbe student marks and grade 
