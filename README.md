@@ -32,4 +32,5 @@
 31. pgm to calculate student marks and grade
 32. Pgm to Find Second Largest Number (without using sort)
 33. pgm to write ATM withdrawal system
-34. pgm to calculate tbe student marks and grade 
+34. pgm to calculate tbe student marks and grade
+35. pgm to Check Whether a Triangle is Valid Using Angles
