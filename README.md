@@ -34,3 +34,4 @@
 33. pgm to write ATM withdrawal system
 34. pgm to calculate tbe student marks and grade
 35. pgm to Check Whether a Triangle is Valid Using Angles
+36. pgm for student grade calculator 
